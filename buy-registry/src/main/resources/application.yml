@@ -1,0 +1,16 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: buy-registry
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8000/eureka
+    register-with-eureka: false #不注册本服务
+    fetch-registry: false
+  server:
+    enable-self-preservation: false #关闭自我保护模式
+    eviction-interval-timer-in-ms: 10000

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="buy-gateway" />
+        <module name="buy-goods-interface" />
+        <module name="buy-goods-service" />
+        <module name="buy-registry" />
+        <module name="buy-registry (1) (com.buy.registry)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buy-product" target="1.8" />
+      <module name="buy-registry (1) (com.buy.registry)" target="1.8" />
+      <module name="buy-test" target="1.8" />
+      <module name="buy-user" target="1.8" />
+      <module name="buy-user-interface" target="1.8" />
+      <module name="buy-user-interface (1)" target="1.8" />
+      <module name="buy-user-service" target="1.8" />
+      <module name="buy-user-service (1)" target="1.8" />
+      <module name="buygoodsinterface" target="1.8" />
+      <module name="consumer_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="buy-gateway" options="-parameters" />
+      <module name="buy-goods" options="-parameters" />
+      <module name="buy-goods-service" options="-parameters" />
+      <module name="buy-parent" options="" />
+      <module name="buy-product" options="-parameters" />
+      <module name="buy-registry" options="-parameters" />
+      <module name="buy-registry (1) (com.buy.registry)" options="-parameters" />
+      <module name="buy-test" options="-parameters" />
+      <module name="buy-user" options="-parameters" />
+      <module name="buy-user-interface" options="-parameters" />
+      <module name="buy-user-service" options="-parameters" />
+      <module name="buygoodsinterface" options="-parameters" />
+      <module name="consumer_service" options="-parameters" />
+    </option>
+  </component>
+</project>

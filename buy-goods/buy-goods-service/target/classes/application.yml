@@ -1,0 +1,10 @@
+server:
+  port: 4545
+spring:
+  application:
+    name: goods-service
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8000/eureka

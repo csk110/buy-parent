@@ -1,0 +1,12 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: buy-gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8000/eureka
+    registry-fetch-interval-seconds: 5 #拉取服务时间间隔
+zuul:
+  prefix: /api

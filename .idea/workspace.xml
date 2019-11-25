@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c395cbef-9cbe-4e0f-8736-603e33fcf522" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/buy-registry/target/" />
+    <ignored path="$PROJECT_DIR$/buy-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/buy-goods/target/" />
+    <ignored path="$PROJECT_DIR$/buy-goods/buy-goods-interface/target/" />
+    <ignored path="$PROJECT_DIR$/buy-goods/buy-goods-service/target/" />
+    <ignored path="$PROJECT_DIR$/buy-user/target/" />
+    <ignored path="$PROJECT_DIR$/buy-user/buy-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/buy-user/buy-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/buy-product/target/" />
+    <ignored path="$PROJECT_DIR$/buy-test/target/" />
+    <ignored path="$PROJECT_DIR$/consumer_service/target/" />
+    <ignored path="$PROJECT_DIR$/consumer_service/buy-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/consumer_service/buy-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/buy-users/buy-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/buy-users/target/" />
+    <ignored path="$PROJECT_DIR$/buy-users/buy-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/../consumer_service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="47" selection-start-line="5" selection-end-line="8" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/java/com/buy/buygoodsservice/BuyGoodsServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.10.RELEASE/spring-boot-autoconfigure-2.1.10.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/SpringBootCondition.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-goods/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy-registry/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>401</find>
+      <find>conne</find>
+      <find>jdbc</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/buy-registry/src/main/java/com/buy/buyregistry/BuyRegistryApplication.java" />
+        <option value="$PROJECT_DIR$/buy-registry/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-gateway/src/main/java/com/buy/buygateway/BuyGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/buy-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-goods/buy-goods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-interface/src/main/java/com/buy/user/entity/TbLoginLog.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbAdminMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbLoginLogService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbAdminService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbMenuService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbResourceMenuService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbResourceService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbRoleResourceService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/service/ITbRoleService.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbAdminRoleMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbLoginLogMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbMenuMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbResourceMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbResourceMenuMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbRoleMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/mapper/TbRoleResourceMapper.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-interface/src/main/java/com/buy/user/pojo/TbAdmin.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/utils/controller/TbAdminController.java" />
+        <option value="$PROJECT_DIR$/buy-user/src/main/java/com/mysql/jdbc/Drivier.java" />
+        <option value="$PROJECT_DIR$/buy-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-user/src/main/java/com/buy/buyuser/BuyUserApplication.java" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-user/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-product/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-product/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-product/src/main/java/com/buy/buyproduct/BuyProductApplication.java" />
+        <option value="$PROJECT_DIR$/consumer_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer_service/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-users/buy-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-users/buy-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-users/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-users/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/controller/TbAdminController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-goods/src/main/java/com/buy/buygoods/BuyGoodsApplication.java" />
+        <option value="$PROJECT_DIR$/buy-goods/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/java/com/buy/buygoodsservice/BuyGoodsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/buy-goods/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-goods/buy-goods-service/src/test/java/com/buy/buygoodsservice/BuyGoodsServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/buy-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/buy-goods/buy-goods-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven3.3.1" />
+        <option name="userSettingsFile" value="F:\maven3.3.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="buy-goods-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="buy-goods-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="buy-registry" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="buy-registry" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="buy-registry" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:2.1.2.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1375" />
+    <option name="y" value="6" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574690148187" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ideaDemo\buyparent" />
+      <recent name="H:\ideaDemo\buyparent\consumer_service" />
+      <recent name="H:\ideaDemo\buyparent\buy-users" />
+      <recent name="H:\ideaDemo\buyparent\buy-product" />
+      <recent name="H:\ideaDemo\buyparent\buy-user\buy-user-service\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.31385282" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BuyGoodsServiceApplication">
+    <configuration name="BuyProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buy.buyproduct.BuyProductApplication" />
+      <module name="buy-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buy.buyproduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buy.user.utils.CodeGenerator" />
+      <module name="buy-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buy.user.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="buy-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buy.buygateway.BuyGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyGoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="buy-goods-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buy.buygoodsservice.BuyGoodsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="buy-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.buy.buyregistry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buy.buyregistry.BuyRegistryApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shengkai.consumer_service.ConsumerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BuyProductApplication" />
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Spring Boot.BuyGatewayApplication" />
+      <item itemvalue="Spring Boot.ConsumerServiceApplication" />
+      <item itemvalue="Spring Boot.BuyRegistryApplication" />
+      <item itemvalue="Spring Boot.BuyGoodsServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BuyRegistryApplication" />
+        <item itemvalue="Application.BuyProductApplication" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c395cbef-9cbe-4e0f-8736-603e33fcf522" name="Default Changelist" comment="" />
+      <created>1574510507871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574510507871</updated>
+      <workItem from="1574510510948" duration="5403000" />
+      <workItem from="1574516232509" duration="1232000" />
+      <workItem from="1574574362226" duration="2290000" />
+      <workItem from="1574577132073" duration="1420000" />
+      <workItem from="1574578606159" duration="8477000" />
+      <workItem from="1574589789502" duration="4533000" />
+      <workItem from="1574685071761" duration="895000" />
+      <workItem from="1574686044489" duration="164000" />
+      <workItem from="1574687241066" duration="2870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27284000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" id="Project" order="0" visible="true" weight="0.18923241" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.494705" weight="0.43234324" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.45637584" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.30253026" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32893288" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32893288" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.505295" side_tool="true" weight="0.41778523" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32893288" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3278328" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.34983498" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3251599" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/mapper/TbRoleResourceMapper.java" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/CodeGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/resources/mapper/TbAdminRoleMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-interface/src/main/java/com/buy/user/pojo/TbAdmin.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE.jar!/org/springframework/http/ResponseEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="32" />
+          <folding>
+            <element signature="class#BodyBuilder#0;class#ResponseEntity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/resources/mapper/TbAdminMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/controller/TbAdminRoleController.java" />
+    <entry file="file://$PROJECT_DIR$/buy-registry/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-user/src/main/java/com/mysql/jdbc/Drivier.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.4.RELEASE/spring-cloud-commons-2.1.4.RELEASE.jar!/org/springframework/cloud/client/SpringCloudApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.2.0.RC2/spring-cloud-commons-2.2.0.RC2.jar!/org/springframework/cloud/client/SpringCloudApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-interface/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-gateway/buy-gateway.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-product/src/main/java/com/buy/buyproduct/BuyProductApplication.java" />
+    <entry file="file://$PROJECT_DIR$/buy-product/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/buy-product/buy-product.iml" />
+    <entry file="file://$PROJECT_DIR$/buy-product/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-registry/buy-registry.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-gateway/src/main/java/com/buy/buygateway/BuyGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#277#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR4/spring-cloud-dependencies-Greenwich.SR4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="169" column="31" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-user/src/main/java/com/buy/buyuser/BuyUserApplication.java" />
+    <entry file="file://$PROJECT_DIR$/buy-registry/src/main/java/com/buy/buyregistry/BuyRegistryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#226#248#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-test/src/main/java/com/buy/buytest/BuyTestApplication.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/src/test/java/com/shengkai/consumer_service/ConsumerServiceApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/buy-user-interface/src/main/java/com/buy/user/pojo/TbAdmin.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/buy-user-interface/src/main/java/com/buy/user/pojo/TbMenu.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/buy-user-service/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-user/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-user/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/buy-users/buy-user-interface/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-users/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/src/main/java/com/buy/user/controller/TbAdminController.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/src/main/java/com/shengkai/consumer_service/ConsumerServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/buy-users/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-users/src/main/java/com/shengkai/consumer_service/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/buy-user/buy-user-service/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/buy-goods/src/main/java/com/buy/buygoods/BuyGoodsApplication.java" />
+    <entry file="file://$PROJECT_DIR$/buy-goods/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/buy-goods/src/main/java/com/shengkai/consumer_service/pojo/User.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/src/test/java/com/buy/buygoodsservice/BuyGoodsServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="47" selection-start-line="5" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.10.RELEASE/spring-boot-autoconfigure-2.1.10.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/SpringBootCondition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/src/main/java/com/buy/buygoodsservice/BuyGoodsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-registry/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy-goods/buy-goods-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
